@@ -23,13 +23,12 @@ Don't sacrifice clarity for brevity when creating a minimal example. Use consist
 ## **Complete**
 Make sure all information necessary to reproduce the problem is included in the question itself:
 
-If the problem requires some server-side code as well as some XML-based configuration, include code for both. If a web page problem requires HTML, some JavaScript, and a stylesheet, include code for all three. The problem might not be in the code that you think it is in.
+* If the problem requires some server-side code as well as some XML-based configuration, include code for both. If a web page problem requires HTML, some JavaScript, and a stylesheet, include code for all three. The problem might not be in the code that you think it is in.
 
-Use individual [code blocks](https://stackoverflow.com/editing-help#code) for each file or snippet you include. Provide a description for the purpose of each block.
+* Use individual [code blocks](https://stackoverflow.com/editing-help#code) for each file or snippet you include. Provide a description for the purpose of each block.
 
-Use Stack Snippets to include runnable HTML, JavaScript, or CSS.
 
-DO NOT use images of code. Copy the actual text from your code editor, paste it into the question, then format it as code. This helps others more easily read and test your code.
+* DO NOT use images of code. Copy the actual text from your code editor, paste it into the question, then [format it as code](https://stackoverflow.com/editing-help#code). This helps others more easily read and test your code.
 
 ## **Reproducible**
 To help you solve your problem, others will need to verify that it exists:
