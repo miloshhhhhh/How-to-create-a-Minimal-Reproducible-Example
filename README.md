@@ -3,9 +3,9 @@ When asking a question, people will be better able to provide help if you provid
 
 Your code examples should be…
 
-…Minimal – Use as little code as possible that still produces the same problem
-…Complete – Provide all parts someone else needs to reproduce your problem in the question itself
-…Reproducible – Test the code you're about to provide to make sure it reproduces the problem
+* …Minimal – Use as little code as possible that still produces the same problem
+* …Complete – Provide all parts someone else needs to reproduce your problem in the question itself
+* …Reproducible – Test the code you're about to provide to make sure it reproduces the problem
 The rest of this help article provides guidance on these aspects of writing a minimal, reproducible example.
 
 ## **Minimal**
